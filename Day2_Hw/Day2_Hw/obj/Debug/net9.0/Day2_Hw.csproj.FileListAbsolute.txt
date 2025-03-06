@@ -1,0 +1,15 @@
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\bin\Debug\net9.0\Day2_Hw.exe
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\bin\Debug\net9.0\Day2_Hw.deps.json
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\bin\Debug\net9.0\Day2_Hw.runtimeconfig.json
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\bin\Debug\net9.0\Day2_Hw.dll
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\bin\Debug\net9.0\Day2_Hw.pdb
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\Day2_Hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\Day2_Hw.AssemblyInfoInputs.cache
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\Day2_Hw.AssemblyInfo.cs
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\Day2_Hw.csproj.CoreCompileInputs.cache
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\Day2_Hw.sourcelink.json
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\Day2_Hw.dll
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\refint\Day2_Hw.dll
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\Day2_Hw.pdb
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\Day2_Hw.genruntimeconfig.cache
+C:\Users\Alimukhamedova_M\RiderProjects\Csharp-course\Day2_Hw\Day2_Hw\obj\Debug\net9.0\ref\Day2_Hw.dll
