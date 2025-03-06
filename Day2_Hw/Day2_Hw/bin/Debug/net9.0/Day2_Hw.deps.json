@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Day2_Hw/1.0.0": {
+        "runtime": {
+          "Day2_Hw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day2_Hw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
